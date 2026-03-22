@@ -1,2 +1,1 @@
 ﻿# mail-cron-server
-  shdjsdh
